@@ -1,7 +1,7 @@
 # My First Project- Landing Page
 
-This is basically a landing page for any site. As it is not responsive, it will only work on desktop screen 
-
+This is basically a landing page for any site. As it is not responsive, it will only work on desktop screen
+I got to learn more about Position in css in this project
 # Technologies used
 
 - HTML
@@ -13,7 +13,7 @@ This is basically a landing page for any site. As it is not responsive, it will 
 
 # Time taken to finish the project
 
-Since It was my first time building someting like this, It took 5-6 hours for me to complete it
+It took 5-6 hours for me to complete it
 
 # Author and Contact
 
