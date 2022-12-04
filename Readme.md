@@ -20,4 +20,4 @@ It took 5-6 hours for me to complete it
 [Charmi Goplani](mailto:goplanicharmy@gmail.com)
 
 # Project Link
-[Deployment Link](https://my-landing-page-1.netlify.app/)
+[Deployment Link](https://mylandingpage2.netlify.app/)
